@@ -1,0 +1,32 @@
+{
+  "name": "typecat",
+  "version": "1.0.0",
+  "description": "Category theory examples in TypeScript",
+  "scripts": {
+    "test": "ts-node typecat.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damienstanton/typecat.git"
+  },
+  "keywords": [
+    "category",
+    "theory",
+    "abstract",
+    "algebra",
+    "topology",
+    "functional",
+    "programming"
+  ],
+  "author": "Damien Stanton <damien.stanton@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/damienstanton/typecat/issues"
+  },
+  "homepage": "https://github.com/damienstanton/typecat#readme",
+  "dependencies": {
+    "@types/node": "^15.6.2",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.2"
+  }
+}
